@@ -12,3 +12,5 @@ So, to move the player to the right, we first overwrite the current position wit
 Key input is handled with `ConsoleKeyInfo` and is bound to:
 **WASD** - Move;
 **Q** - Quit.
+
+<img width="138" height="141" alt="изображение" src="https://github.com/user-attachments/assets/68d0fde2-280a-4e5a-8db6-973a084ca10b" />
